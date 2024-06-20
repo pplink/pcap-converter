@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": ["es6", "dom"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "target": "es6",
+    "baseUrl": ".",
+    "strict": true
+  },
+  "compileOnSave": true,
+  "include": ["src"]
+}
